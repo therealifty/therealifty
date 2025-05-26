@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]
 <h1 align="center">Hi 👋, I'm Ifty Anwar</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Architect & Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 
